@@ -1,6 +1,9 @@
 # Tour website
 
 Technology I used:
+- stripe/stripe-js
+- tanstack/react-query
+- axios
 - react-google-charts
 - react-helmet-async
 - react-hot-toast
